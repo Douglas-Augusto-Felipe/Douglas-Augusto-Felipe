@@ -1,7 +1,8 @@
 ## - 👋 Olá meu nome é Douglas
 
 -  Hoje eu trabalho com Manutenção elétrica
-- 🌱 Atualmente estou estudando ADS
+
+- 🌱 <strong>Atualmente estou estudando ADS</strong>
 
 
 <div>
