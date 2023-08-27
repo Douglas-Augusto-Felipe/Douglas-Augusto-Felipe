@@ -7,8 +7,8 @@
 
 <div>
 <a href="https://github.com/Douglas-Augusto-Felipe">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Douglas-Augusto&show_icons=true&theme=tokyonight"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Augusto&layout=compact"/> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Douglas-Augusto-Felipe&show_icons=true&theme=tokyonight"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Augusto-Felipe&layout=compact&theme=tokyonight"/> 
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
